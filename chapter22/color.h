@@ -1,0 +1,8 @@
+#ifndef DESIGNPATTERNS_COLOR_H
+#define DESIGNPATTERNS_COLOR_H
+
+enum Color {
+    RED_, WHITE_
+};
+
+#endif //DESIGNPATTERNS_COLOR_H
